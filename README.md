@@ -1,4 +1,9 @@
-# Projeto cotações
+# Projeto de cotações de empresas realizado na disciplina NodeJS na PUC-Minas
 
-## para executar configure as dependências
+## Tecnologias utilizadas
+- NodeJS
+- HBS
+- Express
+
+### para executar configure as dependências
 `npm start`
